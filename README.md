@@ -1,1 +1,3 @@
 # Crowdfunding-ETL
+The purpose of Crowdfunding ETL is to help Independent Funding, a crowdfunding platform for funding independent projects or ventures, move all their accessible data from one large Excel file onto a PostgreSQL database. Where the we will be able to perform analysis and create reports for company stakeholders as well as individuals who donate to projects.
+Specifically, we extracted and transformed the backers data from a large Excel file into separate CSV files. We then created a PostgreSQL database and tables by using an ERD. We also loaded the CSV files into the database and then executed SQL queries to generate reports for stakeholders.
